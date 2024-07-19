@@ -1,0 +1,1 @@
+This is a website which will give a random quote on every click. It is being built using basic HTML, CSS & JS. Also the API is being used for the quote generation. It also has a function which will allow user to post the quote directly on the twitter or X .
